@@ -1,0 +1,6 @@
+Acesta este un test: Sat Aug 08 18:01:18 EEST 2015
+Index apa rece Bucatarie: 123
+Index apa calda Bucatarie: 124
+Index apa rece Baie: 98
+Index apa calda Baie: 76
+Index gaze: 56
